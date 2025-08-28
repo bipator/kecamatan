@@ -396,7 +396,7 @@ h4 {
     height: auto;
     object-fit: cover;
     display: block;
-    margin-top: -100%;
+    margin-top: -120%;
   }
 }
 
@@ -477,6 +477,7 @@ h4 {
   
 }
 }
+
 
 
 
