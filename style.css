@@ -83,6 +83,20 @@ body {
   display: block;
 }
 
+.linktombol {
+  display: block;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  width: max-content;
+  margin-top: 2px;
+  padding: 7px 10px;
+  background-color: #880799;
+  text-align: center;
+  border-radius: 5px;
+  font-size: small;
+}
+
 /* Tombol kembali */
 .kembali {
   margin-left: 20px;
@@ -382,7 +396,7 @@ h4 {
     height: auto;
     object-fit: cover;
     display: block;
-    margin-top: -120%;
+    margin-top: -100%;
   }
 }
 
@@ -444,5 +458,4 @@ h4 {
   h1 {
     font-size: xx-small;
   }
-
 }
